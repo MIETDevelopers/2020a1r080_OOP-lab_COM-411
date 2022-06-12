@@ -55,5 +55,6 @@ int main()
     cout<<"Details Updated";
     cout<<"\n\nDeleting the Details";
     s.del();
+    
     return 0;
 }       
